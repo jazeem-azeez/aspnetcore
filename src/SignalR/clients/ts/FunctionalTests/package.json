@@ -9,15 +9,15 @@
     "@microsoft/signalr-protocol-msgpack": "link:../signalr-protocol-msgpack"
   },
   "devDependencies": {
-    "@types/debug": "0.0.30",
+    "@types/debug": "4.1.12",
     "@types/jasmine": "^2.8.8",
     "@types/karma": "^1.7.5",
     "@types/node": "^9.6.28",
-    "debug": "^3.1.0",
+    "debug": "^4.4.0",
     "es6-promise": "^4.2.4",
     "jasmine": "^3.2.0",
     "jasmine-core": "^3.2.1",
-    "karma": "^4.4.1",
+    "karma": "^6.3.16",
     "karma-chrome-launcher": "^2.2.0",
     "karma-edge-launcher": "^0.4.2",
     "karma-firefox-launcher": "^1.3.0",
@@ -33,7 +33,7 @@
     "rxjs": "^6.3.3",
     "ts-node": "^8.6.2",
     "typescript": "^3.7.5",
-    "webpack": "^5.23.0",
+    "webpack": "^5.94.0",
     "ws": " ^6.0.0"
   },
   "scripts": {
